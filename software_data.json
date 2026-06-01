@@ -129,6 +129,11 @@
         "name": "轻松设置",
         "filename": "轻松设置.exe",
         "url": "https://links.8uid.com/d/5e1fc84ad807332e4bcd62042f671723"
+      },
+      {
+        "name": "白图标修复",
+        "filename": "白图标修复.bat",
+        "url": "https://links.8uid.com/d/de4f78bd73b2a378146ea1fe4feacee6"
       }
     ],
     "办公软件(windows)": [
@@ -188,13 +193,6 @@
         "name": "汉印N31C",
         "filename": "汉印N31C.exe",
         "url": "https://links.8uid.com/d/592045de6454d60a86659fe6204bbfd6"
-      }
-    ],
-    "????": [
-      {
-        "name": "?????",
-        "filename": "?????.bat",
-        "url": "https://links.8uid.com/d/de4f78bd73b2a378146ea1fe4feacee6"
       }
     ]
   }
