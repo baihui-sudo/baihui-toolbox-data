@@ -1,8 +1,9 @@
 {
-  "app_name": "BaiHuiToolbox",
-  "version": "2.2.0",
+  "app_name": "白回工具箱2.3",
+  "version": "2.3.0",
   "mandatory": false,
-  "download_url": "",
+  "filename": "白回工具箱.exe",
+  "download_url": "https://links.8uid.com/d/56454164c4a7f1dafa50cbd3cce62bec/白回工具箱.exe",
   "sha256": "",
-  "notes": "当前版本"
+  "notes": "新增图片链接生成器网页直达功能"
 }
