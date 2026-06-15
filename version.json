@@ -1,9 +1,9 @@
 {
-  "app_name": "白回工具箱2.3",
-  "version": "2.3.0",
+  "app_name": "白回工具箱2.4",
+  "version": "2.4.0",
   "mandatory": false,
-  "filename": "白回工具箱2.3.exe",
-  "download_url": "https://links.8uid.com/d/8fec4a7f328cdcb73eb8e1f47540f768/白回工具箱2.3.exe",
+  "filename": "白回工具箱2.4.exe",
+  "download_url": "https://links.8uid.com/d/479052bbc9b4305c3394c8ed400b0e8a/白回工具箱2.4.exe",
   "sha256": "",
-  "notes": "新增图片链接生成器网页直达功能"
+  "notes": "修复已知bug"
 }
